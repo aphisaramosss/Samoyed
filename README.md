@@ -327,11 +327,13 @@ npm run dev
 Firefox จะถูกเรียกที่ http://localhost:3000 เพื่อแสดงผลลัพธ์  
 ![1](https://user-images.githubusercontent.com/77539213/104816220-3da64e00-584c-11eb-9b20-12dcc30ad0a9.png)
 เมื่อกด Book ระบบจะเชื่อมต่อไปยัง Wallet  
+![Front](https://user-images.githubusercontent.com/77539213/104816224-40a13e80-584c-11eb-9424-8c19d8304ff4.png)
 
-![Booked](https://user-images.githubusercontent.com/77539213/104816223-4008a800-584c-11eb-8406-771b5fa5a425.png)
 เมื่อยืนยันการทำธุรกรรม หรือ การจอง ปุ่มจะเปลียนสถานะเป็น Booked  
+![Booked](https://user-images.githubusercontent.com/77539213/104816223-4008a800-584c-11eb-8406-771b5fa5a425.png)
+
 
 และด้านล่างจะเป็นภาพตัวอย่าง Transaction ที่เกิดขึ้นบน Wallet
-![Front](https://user-images.githubusercontent.com/77539213/104816224-40a13e80-584c-11eb-9424-8c19d8304ff4.png)
+
 ![TR1](https://user-images.githubusercontent.com/77539213/104816225-4139d500-584c-11eb-8f9c-b50f9039722e.png)
 ![TR2](https://user-images.githubusercontent.com/77539213/104816226-4139d500-584c-11eb-88d8-99552dcbdab4.png)
