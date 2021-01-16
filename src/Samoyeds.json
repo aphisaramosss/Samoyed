@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/Dog1.jpeg",
+    "age": 3,
+    "gender": "Male",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/Dog2.jpeg",
+    "age": 3,
+    "gender": "Male",
+    "location": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/Dog3.jpeg",
+    "age": 2,
+    "gender": "Female",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Melissa",
+    "picture": "images/Dog4.jpeg",
+    "age": 2,
+    "gender": "Male",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Jeanine",
+    "picture": "images/Dog5.jpeg",
+    "age": 2,
+    "gender": "Female",
+    "location": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/Dog6.jpeg",
+    "age": 3,
+    "gender": "Male",
+    "location": "Innsbrook, Illinois"
+  }
+  
+]
